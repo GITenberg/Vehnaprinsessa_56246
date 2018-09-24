@@ -1,11 +1,14 @@
 _repo: Vehnaprinsessa_56246
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The wheat princess. Finnish
 contributor:
   translator:
     agent_name: Haahti, Annikki
     gutenberg_agent_id: '48738'
     url: http://www.gutenberg.org/2009/agents/48738
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Jean
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/99
     wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56246#Vehnaprinsessa
 gutenberg_issued: '2017-12-24'
 gutenberg_type: Text
 identifiers:
