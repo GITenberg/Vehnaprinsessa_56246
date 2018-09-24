@@ -1,0 +1,36 @@
+_repo: Vehnaprinsessa_56246
+_version: 0.0.1
+alternative_title: The wheat princess. Finnish
+contributor:
+  translator:
+    agent_name: Haahti, Annikki
+    gutenberg_agent_id: '48738'
+    url: http://www.gutenberg.org/2009/agents/48738
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - McKinney, Jean Webster
+    - Webster, Alice Jean Chandler
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: ''
+gutenberg_issued: '2017-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56246'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of the rich -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Americans -- Italy -- Fiction'
+- GITenberg
+title: Vehnäprinsessa
+url: http://www.gutenberg.org/ebooks/56246
